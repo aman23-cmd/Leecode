@@ -8,4 +8,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/aman23-cmd/Leecode/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/aman23-cmd/Leecode/tree/master/1148-article-views-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/aman23-cmd/Leecode/tree/master/1757-recyclable-and-low-fat-products) |
+## Array
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/aman23-cmd/Leecode/tree/master/0053-maximum-subarray) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/aman23-cmd/Leecode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/aman23-cmd/Leecode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
