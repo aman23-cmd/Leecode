@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/aman23-cmd/Leecode/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/aman23-cmd/Leecode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/aman23-cmd/Leecode/tree/master/0073-set-matrix-zeroes) |
+| [0119-pascals-triangle-ii](https://github.com/aman23-cmd/Leecode/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/aman23-cmd/Leecode/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/aman23-cmd/Leecode/tree/master/0238-product-of-array-except-self) |
 | [0875-koko-eating-bananas](https://github.com/aman23-cmd/Leecode/tree/master/0875-koko-eating-bananas) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/aman23-cmd/Leecode/tree/master/0053-maximum-subarray) |
+| [0119-pascals-triangle-ii](https://github.com/aman23-cmd/Leecode/tree/master/0119-pascals-triangle-ii) |
 | [0788-rotated-digits](https://github.com/aman23-cmd/Leecode/tree/master/0788-rotated-digits) |
 ## Prefix Sum
 |  |
