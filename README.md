@@ -72,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0788-rotated-digits](https://github.com/aman23-cmd/Leecode/tree/master/0788-rotated-digits) |
+## String
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/aman23-cmd/Leecode/tree/master/0796-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/aman23-cmd/Leecode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
