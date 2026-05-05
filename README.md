@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/aman23-cmd/Leecode/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/aman23-cmd/Leecode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/aman23-cmd/Leecode/tree/master/0328-odd-even-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/aman23-cmd/Leecode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/aman23-cmd/Leecode/tree/master/0112-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aman23-cmd/Leecode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aman23-cmd/Leecode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/aman23-cmd/Leecode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/aman23-cmd/Leecode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
@@ -145,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aman23-cmd/Leecode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/aman23-cmd/Leecode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
