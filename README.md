@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/aman23-cmd/Leecode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aman23-cmd/Leecode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/aman23-cmd/Leecode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1306-jump-game-iii](https://github.com/aman23-cmd/Leecode/tree/master/1306-jump-game-iii) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/aman23-cmd/Leecode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1914-cyclically-rotating-a-grid](https://github.com/aman23-cmd/Leecode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/aman23-cmd/Leecode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aman23-cmd/Leecode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/aman23-cmd/Leecode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aman23-cmd/Leecode/tree/master/0662-maximum-width-of-binary-tree) |
+| [1306-jump-game-iii](https://github.com/aman23-cmd/Leecode/tree/master/1306-jump-game-iii) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/aman23-cmd/Leecode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/aman23-cmd/Leecode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/aman23-cmd/Leecode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/aman23-cmd/Leecode/tree/master/0112-path-sum) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aman23-cmd/Leecode/tree/master/0662-maximum-width-of-binary-tree) |
+| [1306-jump-game-iii](https://github.com/aman23-cmd/Leecode/tree/master/1306-jump-game-iii) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/aman23-cmd/Leecode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Search Tree
 |  |
