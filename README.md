@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aman23-cmd/Leecode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/aman23-cmd/Leecode/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aman23-cmd/Leecode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0086-partition-list](https://github.com/aman23-cmd/Leecode/tree/master/0086-partition-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aman23-cmd/Leecode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/aman23-cmd/Leecode/tree/master/0283-move-zeroes) |
 ## Sorting
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/aman23-cmd/Leecode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/aman23-cmd/Leecode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/aman23-cmd/Leecode/tree/master/0086-partition-list) |
 | [0206-reverse-linked-list](https://github.com/aman23-cmd/Leecode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/aman23-cmd/Leecode/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/aman23-cmd/Leecode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
