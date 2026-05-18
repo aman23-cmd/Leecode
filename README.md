@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/aman23-cmd/Leecode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/aman23-cmd/Leecode/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/aman23-cmd/Leecode/tree/master/0493-reverse-pairs) |
 ## Dynamic Programming
 |  |
@@ -89,12 +90,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/aman23-cmd/Leecode/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aman23-cmd/Leecode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/aman23-cmd/Leecode/tree/master/0086-partition-list) |
+| [0148-sort-list](https://github.com/aman23-cmd/Leecode/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aman23-cmd/Leecode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/aman23-cmd/Leecode/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/aman23-cmd/Leecode/tree/master/0015-3sum) |
+| [0148-sort-list](https://github.com/aman23-cmd/Leecode/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/aman23-cmd/Leecode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/aman23-cmd/Leecode/tree/master/0414-third-maximum-number) |
 | [2784-check-if-array-is-good](https://github.com/aman23-cmd/Leecode/tree/master/2784-check-if-array-is-good) |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/aman23-cmd/Leecode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/aman23-cmd/Leecode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/aman23-cmd/Leecode/tree/master/0086-partition-list) |
+| [0148-sort-list](https://github.com/aman23-cmd/Leecode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/aman23-cmd/Leecode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/aman23-cmd/Leecode/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/aman23-cmd/Leecode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
@@ -241,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/aman23-cmd/Leecode/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/aman23-cmd/Leecode/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
