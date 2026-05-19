@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/aman23-cmd/Leecode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/aman23-cmd/Leecode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aman23-cmd/Leecode/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/aman23-cmd/Leecode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/aman23-cmd/Leecode/tree/master/0322-coin-change) |
 | [0414-third-maximum-number](https://github.com/aman23-cmd/Leecode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/aman23-cmd/Leecode/tree/master/0485-max-consecutive-ones) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/aman23-cmd/Leecode/tree/master/0055-jump-game) |
 | [0119-pascals-triangle-ii](https://github.com/aman23-cmd/Leecode/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aman23-cmd/Leecode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/aman23-cmd/Leecode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/aman23-cmd/Leecode/tree/master/0322-coin-change) |
 | [0546-remove-boxes](https://github.com/aman23-cmd/Leecode/tree/master/0546-remove-boxes) |
 | [0788-rotated-digits](https://github.com/aman23-cmd/Leecode/tree/master/0788-rotated-digits) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aman23-cmd/Leecode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aman23-cmd/Leecode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/aman23-cmd/Leecode/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/aman23-cmd/Leecode/tree/master/0300-longest-increasing-subsequence) |
 | [0493-reverse-pairs](https://github.com/aman23-cmd/Leecode/tree/master/0493-reverse-pairs) |
 | [0875-koko-eating-bananas](https://github.com/aman23-cmd/Leecode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aman23-cmd/Leecode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
