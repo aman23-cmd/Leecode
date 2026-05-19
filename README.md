@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0546-remove-boxes](https://github.com/aman23-cmd/Leecode/tree/master/0546-remove-boxes) |
 | [0875-koko-eating-bananas](https://github.com/aman23-cmd/Leecode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aman23-cmd/Leecode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/aman23-cmd/Leecode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/aman23-cmd/Leecode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1306-jump-game-iii](https://github.com/aman23-cmd/Leecode/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/aman23-cmd/Leecode/tree/master/1345-jump-game-iv) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/aman23-cmd/Leecode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/aman23-cmd/Leecode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/aman23-cmd/Leecode/tree/master/0200-number-of-islands) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/aman23-cmd/Leecode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1914-cyclically-rotating-a-grid](https://github.com/aman23-cmd/Leecode/tree/master/1914-cyclically-rotating-a-grid) |
 ## Math
 |  |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/aman23-cmd/Leecode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/aman23-cmd/Leecode/tree/master/0200-number-of-islands) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aman23-cmd/Leecode/tree/master/0662-maximum-width-of-binary-tree) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/aman23-cmd/Leecode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1306-jump-game-iii](https://github.com/aman23-cmd/Leecode/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/aman23-cmd/Leecode/tree/master/1345-jump-game-iv) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/aman23-cmd/Leecode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
