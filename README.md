@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/aman23-cmd/Leecode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/aman23-cmd/Leecode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aman23-cmd/Leecode/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/aman23-cmd/Leecode/tree/master/0322-coin-change) |
 | [0414-third-maximum-number](https://github.com/aman23-cmd/Leecode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/aman23-cmd/Leecode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/aman23-cmd/Leecode/tree/master/0493-reverse-pairs) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/aman23-cmd/Leecode/tree/master/0055-jump-game) |
 | [0119-pascals-triangle-ii](https://github.com/aman23-cmd/Leecode/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aman23-cmd/Leecode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0322-coin-change](https://github.com/aman23-cmd/Leecode/tree/master/0322-coin-change) |
 | [0546-remove-boxes](https://github.com/aman23-cmd/Leecode/tree/master/0546-remove-boxes) |
 | [0788-rotated-digits](https://github.com/aman23-cmd/Leecode/tree/master/0788-rotated-digits) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/aman23-cmd/Leecode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/aman23-cmd/Leecode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/aman23-cmd/Leecode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/aman23-cmd/Leecode/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/aman23-cmd/Leecode/tree/master/0322-coin-change) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aman23-cmd/Leecode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aman23-cmd/Leecode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1306-jump-game-iii](https://github.com/aman23-cmd/Leecode/tree/master/1306-jump-game-iii) |
