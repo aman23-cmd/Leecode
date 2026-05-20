@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/aman23-cmd/Leecode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/aman23-cmd/Leecode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/aman23-cmd/Leecode/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/aman23-cmd/Leecode/tree/master/0392-is-subsequence) |
 | [0546-remove-boxes](https://github.com/aman23-cmd/Leecode/tree/master/0546-remove-boxes) |
 | [0788-rotated-digits](https://github.com/aman23-cmd/Leecode/tree/master/0788-rotated-digits) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/aman23-cmd/Leecode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aman23-cmd/Leecode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/aman23-cmd/Leecode/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/aman23-cmd/Leecode/tree/master/0295-find-median-from-data-stream) |
+| [0392-is-subsequence](https://github.com/aman23-cmd/Leecode/tree/master/0392-is-subsequence) |
 | [2540-minimum-common-value](https://github.com/aman23-cmd/Leecode/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aman23-cmd/Leecode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0151-reverse-words-in-a-string](https://github.com/aman23-cmd/Leecode/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/aman23-cmd/Leecode/tree/master/0392-is-subsequence) |
 | [0796-rotate-string](https://github.com/aman23-cmd/Leecode/tree/master/0796-rotate-string) |
 ## String Matching
 |  |
