@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/aman23-cmd/Leecode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/aman23-cmd/Leecode/tree/master/0493-reverse-pairs) |
 | [0546-remove-boxes](https://github.com/aman23-cmd/Leecode/tree/master/0546-remove-boxes) |
+| [0821-shortest-distance-to-a-character](https://github.com/aman23-cmd/Leecode/tree/master/0821-shortest-distance-to-a-character) |
 | [0875-koko-eating-bananas](https://github.com/aman23-cmd/Leecode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aman23-cmd/Leecode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aman23-cmd/Leecode/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/aman23-cmd/Leecode/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/aman23-cmd/Leecode/tree/master/0392-is-subsequence) |
 | [0457-circular-array-loop](https://github.com/aman23-cmd/Leecode/tree/master/0457-circular-array-loop) |
+| [0821-shortest-distance-to-a-character](https://github.com/aman23-cmd/Leecode/tree/master/0821-shortest-distance-to-a-character) |
 | [2540-minimum-common-value](https://github.com/aman23-cmd/Leecode/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/aman23-cmd/Leecode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/aman23-cmd/Leecode/tree/master/0392-is-subsequence) |
 | [0796-rotate-string](https://github.com/aman23-cmd/Leecode/tree/master/0796-rotate-string) |
+| [0821-shortest-distance-to-a-character](https://github.com/aman23-cmd/Leecode/tree/master/0821-shortest-distance-to-a-character) |
 ## String Matching
 |  |
 | ------- |
