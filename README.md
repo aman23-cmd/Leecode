@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/aman23-cmd/Leecode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aman23-cmd/Leecode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/aman23-cmd/Leecode/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/aman23-cmd/Leecode/tree/master/0295-find-median-from-data-stream) |
 | [2540-minimum-common-value](https://github.com/aman23-cmd/Leecode/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/aman23-cmd/Leecode/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/aman23-cmd/Leecode/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/aman23-cmd/Leecode/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/aman23-cmd/Leecode/tree/master/0295-find-median-from-data-stream) |
 | [0414-third-maximum-number](https://github.com/aman23-cmd/Leecode/tree/master/0414-third-maximum-number) |
 | [2784-check-if-array-is-good](https://github.com/aman23-cmd/Leecode/tree/master/2784-check-if-array-is-good) |
 ## Hash Table
@@ -285,4 +287,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/aman23-cmd/Leecode/tree/master/0055-jump-game) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/aman23-cmd/Leecode/tree/master/0295-find-median-from-data-stream) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/aman23-cmd/Leecode/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/aman23-cmd/Leecode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
