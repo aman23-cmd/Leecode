@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aman23-cmd/Leecode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/aman23-cmd/Leecode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/aman23-cmd/Leecode/tree/master/2784-check-if-array-is-good) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/aman23-cmd/Leecode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3660-jump-game-ix](https://github.com/aman23-cmd/Leecode/tree/master/3660-jump-game-ix) |
 ## Divide and Conquer
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/aman23-cmd/Leecode/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aman23-cmd/Leecode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/aman23-cmd/Leecode/tree/master/2784-check-if-array-is-good) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/aman23-cmd/Leecode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Union-Find
 |  |
 | ------- |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/aman23-cmd/Leecode/tree/master/0796-rotate-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/aman23-cmd/Leecode/tree/master/0821-shortest-distance-to-a-character) |
 | [0917-reverse-only-letters](https://github.com/aman23-cmd/Leecode/tree/master/0917-reverse-only-letters) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/aman23-cmd/Leecode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## String Matching
 |  |
 | ------- |
@@ -318,4 +321,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/aman23-cmd/Leecode/tree/master/0051-n-queens) |
+## Trie
+|  |
+| ------- |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/aman23-cmd/Leecode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
