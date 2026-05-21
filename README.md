@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/aman23-cmd/Leecode/tree/master/0457-circular-array-loop) |
 | [0485-max-consecutive-ones](https://github.com/aman23-cmd/Leecode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/aman23-cmd/Leecode/tree/master/0493-reverse-pairs) |
+| [0495-teemo-attacking](https://github.com/aman23-cmd/Leecode/tree/master/0495-teemo-attacking) |
 | [0546-remove-boxes](https://github.com/aman23-cmd/Leecode/tree/master/0546-remove-boxes) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/aman23-cmd/Leecode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0821-shortest-distance-to-a-character](https://github.com/aman23-cmd/Leecode/tree/master/0821-shortest-distance-to-a-character) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0495-teemo-attacking](https://github.com/aman23-cmd/Leecode/tree/master/0495-teemo-attacking) |
 | [1914-cyclically-rotating-a-grid](https://github.com/aman23-cmd/Leecode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/aman23-cmd/Leecode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Binary Indexed Tree
