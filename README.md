@@ -91,12 +91,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0546-remove-boxes](https://github.com/aman23-cmd/Leecode/tree/master/0546-remove-boxes) |
 | [0788-rotated-digits](https://github.com/aman23-cmd/Leecode/tree/master/0788-rotated-digits) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/aman23-cmd/Leecode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1871-jump-game-vii](https://github.com/aman23-cmd/Leecode/tree/master/1871-jump-game-vii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/aman23-cmd/Leecode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3660-jump-game-ix](https://github.com/aman23-cmd/Leecode/tree/master/3660-jump-game-ix) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/aman23-cmd/Leecode/tree/master/0238-product-of-array-except-self) |
+| [1871-jump-game-vii](https://github.com/aman23-cmd/Leecode/tree/master/1871-jump-game-vii) |
 ## Binary Search
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/aman23-cmd/Leecode/tree/master/0796-rotate-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/aman23-cmd/Leecode/tree/master/0821-shortest-distance-to-a-character) |
 | [0917-reverse-only-letters](https://github.com/aman23-cmd/Leecode/tree/master/0917-reverse-only-letters) |
+| [1871-jump-game-vii](https://github.com/aman23-cmd/Leecode/tree/master/1871-jump-game-vii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/aman23-cmd/Leecode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## String Matching
 |  |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aman23-cmd/Leecode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1871-jump-game-vii](https://github.com/aman23-cmd/Leecode/tree/master/1871-jump-game-vii) |
 ## Doubly-Linked List
 |  |
 | ------- |
