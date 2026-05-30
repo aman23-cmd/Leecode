@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/aman23-cmd/Leecode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/aman23-cmd/Leecode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/aman23-cmd/Leecode/tree/master/0322-coin-change) |
+| [0380-insert-delete-getrandom-o1](https://github.com/aman23-cmd/Leecode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0414-third-maximum-number](https://github.com/aman23-cmd/Leecode/tree/master/0414-third-maximum-number) |
 | [0457-circular-array-loop](https://github.com/aman23-cmd/Leecode/tree/master/0457-circular-array-loop) |
 | [0485-max-consecutive-ones](https://github.com/aman23-cmd/Leecode/tree/master/0485-max-consecutive-ones) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/aman23-cmd/Leecode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/aman23-cmd/Leecode/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/aman23-cmd/Leecode/tree/master/0268-missing-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/aman23-cmd/Leecode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0457-circular-array-loop](https://github.com/aman23-cmd/Leecode/tree/master/0457-circular-array-loop) |
 | [1345-jump-game-iv](https://github.com/aman23-cmd/Leecode/tree/master/1345-jump-game-iv) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/aman23-cmd/Leecode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/aman23-cmd/Leecode/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/aman23-cmd/Leecode/tree/master/0268-missing-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/aman23-cmd/Leecode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0788-rotated-digits](https://github.com/aman23-cmd/Leecode/tree/master/0788-rotated-digits) |
 ## String
 |  |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/aman23-cmd/Leecode/tree/master/0295-find-median-from-data-stream) |
+| [0380-insert-delete-getrandom-o1](https://github.com/aman23-cmd/Leecode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -347,4 +351,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aman23-cmd/Leecode/tree/master/0014-longest-common-prefix) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/aman23-cmd/Leecode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/aman23-cmd/Leecode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
