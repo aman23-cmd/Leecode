@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/aman23-cmd/Leecode/tree/master/1345-jump-game-iv) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/aman23-cmd/Leecode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1914-cyclically-rotating-a-grid](https://github.com/aman23-cmd/Leecode/tree/master/1914-cyclically-rotating-a-grid) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aman23-cmd/Leecode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2540-minimum-common-value](https://github.com/aman23-cmd/Leecode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/aman23-cmd/Leecode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aman23-cmd/Leecode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/aman23-cmd/Leecode/tree/master/0414-third-maximum-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/aman23-cmd/Leecode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0977-squares-of-a-sorted-array](https://github.com/aman23-cmd/Leecode/tree/master/0977-squares-of-a-sorted-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aman23-cmd/Leecode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/aman23-cmd/Leecode/tree/master/2784-check-if-array-is-good) |
 ## Hash Table
 |  |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/aman23-cmd/Leecode/tree/master/0055-jump-game) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aman23-cmd/Leecode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Design
 |  |
 | ------- |
