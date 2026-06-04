@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aman23-cmd/Leecode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/aman23-cmd/Leecode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/aman23-cmd/Leecode/tree/master/2784-check-if-array-is-good) |
+| [2965-find-missing-and-repeated-values](https://github.com/aman23-cmd/Leecode/tree/master/2965-find-missing-and-repeated-values) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/aman23-cmd/Leecode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aman23-cmd/Leecode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3660-jump-game-ix](https://github.com/aman23-cmd/Leecode/tree/master/3660-jump-game-ix) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/aman23-cmd/Leecode/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aman23-cmd/Leecode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/aman23-cmd/Leecode/tree/master/2784-check-if-array-is-good) |
+| [2965-find-missing-and-repeated-values](https://github.com/aman23-cmd/Leecode/tree/master/2965-find-missing-and-repeated-values) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/aman23-cmd/Leecode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Union-Find
 |  |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/aman23-cmd/Leecode/tree/master/0200-number-of-islands) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aman23-cmd/Leecode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1914-cyclically-rotating-a-grid](https://github.com/aman23-cmd/Leecode/tree/master/1914-cyclically-rotating-a-grid) |
+| [2965-find-missing-and-repeated-values](https://github.com/aman23-cmd/Leecode/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
 | ------- |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/aman23-cmd/Leecode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/aman23-cmd/Leecode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0788-rotated-digits](https://github.com/aman23-cmd/Leecode/tree/master/0788-rotated-digits) |
+| [2965-find-missing-and-repeated-values](https://github.com/aman23-cmd/Leecode/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
