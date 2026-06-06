@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/aman23-cmd/Leecode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/aman23-cmd/Leecode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/aman23-cmd/Leecode/tree/master/0062-unique-paths) |
 | [0119-pascals-triangle-ii](https://github.com/aman23-cmd/Leecode/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aman23-cmd/Leecode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/aman23-cmd/Leecode/tree/master/0300-longest-increasing-subsequence) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/aman23-cmd/Leecode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/aman23-cmd/Leecode/tree/master/0062-unique-paths) |
 | [0268-missing-number](https://github.com/aman23-cmd/Leecode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/aman23-cmd/Leecode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0788-rotated-digits](https://github.com/aman23-cmd/Leecode/tree/master/0788-rotated-digits) |
@@ -381,4 +383,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/aman23-cmd/Leecode/tree/master/0380-insert-delete-getrandom-o1) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/aman23-cmd/Leecode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
