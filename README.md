@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/aman23-cmd/Leecode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/aman23-cmd/Leecode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/aman23-cmd/Leecode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0383-ransom-note](https://github.com/aman23-cmd/Leecode/tree/master/0383-ransom-note) |
 | [0457-circular-array-loop](https://github.com/aman23-cmd/Leecode/tree/master/0457-circular-array-loop) |
 | [1345-jump-game-iv](https://github.com/aman23-cmd/Leecode/tree/master/1345-jump-game-iv) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/aman23-cmd/Leecode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/aman23-cmd/Leecode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/aman23-cmd/Leecode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/aman23-cmd/Leecode/tree/master/0151-reverse-words-in-a-string) |
+| [0383-ransom-note](https://github.com/aman23-cmd/Leecode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/aman23-cmd/Leecode/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/aman23-cmd/Leecode/tree/master/0647-palindromic-substrings) |
 | [0796-rotate-string](https://github.com/aman23-cmd/Leecode/tree/master/0796-rotate-string) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/aman23-cmd/Leecode/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/aman23-cmd/Leecode/tree/master/0383-ransom-note) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/aman23-cmd/Leecode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 ## Bit Manipulation
 |  |
