@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/aman23-cmd/Leecode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/aman23-cmd/Leecode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/aman23-cmd/Leecode/tree/master/0062-unique-paths) |
+| [0072-edit-distance](https://github.com/aman23-cmd/Leecode/tree/master/0072-edit-distance) |
 | [0119-pascals-triangle-ii](https://github.com/aman23-cmd/Leecode/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aman23-cmd/Leecode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/aman23-cmd/Leecode/tree/master/0300-longest-increasing-subsequence) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aman23-cmd/Leecode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/aman23-cmd/Leecode/tree/master/0014-longest-common-prefix) |
+| [0072-edit-distance](https://github.com/aman23-cmd/Leecode/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/aman23-cmd/Leecode/tree/master/0151-reverse-words-in-a-string) |
 | [0383-ransom-note](https://github.com/aman23-cmd/Leecode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/aman23-cmd/Leecode/tree/master/0392-is-subsequence) |
