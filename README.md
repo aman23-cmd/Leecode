@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/aman23-cmd/Leecode/tree/master/0917-reverse-only-letters) |
 | [1871-jump-game-vii](https://github.com/aman23-cmd/Leecode/tree/master/1871-jump-game-vii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/aman23-cmd/Leecode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3612-process-string-with-special-operations-i](https://github.com/aman23-cmd/Leecode/tree/master/3612-process-string-with-special-operations-i) |
 ## String Matching
 |  |
 | ------- |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/aman23-cmd/Leecode/tree/master/0495-teemo-attacking) |
 | [1914-cyclically-rotating-a-grid](https://github.com/aman23-cmd/Leecode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/aman23-cmd/Leecode/tree/master/2553-separate-the-digits-in-an-array) |
+| [3612-process-string-with-special-operations-i](https://github.com/aman23-cmd/Leecode/tree/master/3612-process-string-with-special-operations-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
