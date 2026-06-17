@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/aman23-cmd/Leecode/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/aman23-cmd/Leecode/tree/master/1345-jump-game-iv) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/aman23-cmd/Leecode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/aman23-cmd/Leecode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1914-cyclically-rotating-a-grid](https://github.com/aman23-cmd/Leecode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aman23-cmd/Leecode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2540-minimum-common-value](https://github.com/aman23-cmd/Leecode/tree/master/2540-minimum-common-value) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/aman23-cmd/Leecode/tree/master/0647-palindromic-substrings) |
 | [0788-rotated-digits](https://github.com/aman23-cmd/Leecode/tree/master/0788-rotated-digits) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/aman23-cmd/Leecode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/aman23-cmd/Leecode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1871-jump-game-vii](https://github.com/aman23-cmd/Leecode/tree/master/1871-jump-game-vii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/aman23-cmd/Leecode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/aman23-cmd/Leecode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/aman23-cmd/Leecode/tree/master/0414-third-maximum-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/aman23-cmd/Leecode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0977-squares-of-a-sorted-array](https://github.com/aman23-cmd/Leecode/tree/master/0977-squares-of-a-sorted-array) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/aman23-cmd/Leecode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aman23-cmd/Leecode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/aman23-cmd/Leecode/tree/master/2784-check-if-array-is-good) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aman23-cmd/Leecode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
