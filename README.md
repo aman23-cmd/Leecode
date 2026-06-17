@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/aman23-cmd/Leecode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/aman23-cmd/Leecode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/aman23-cmd/Leecode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/aman23-cmd/Leecode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/aman23-cmd/Leecode/tree/master/0072-edit-distance) |
 | [0119-pascals-triangle-ii](https://github.com/aman23-cmd/Leecode/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aman23-cmd/Leecode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/aman23-cmd/Leecode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/aman23-cmd/Leecode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/aman23-cmd/Leecode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/aman23-cmd/Leecode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/aman23-cmd/Leecode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/aman23-cmd/Leecode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0788-rotated-digits](https://github.com/aman23-cmd/Leecode/tree/master/0788-rotated-digits) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/aman23-cmd/Leecode/tree/master/0070-climbing-stairs) |
 | [0546-remove-boxes](https://github.com/aman23-cmd/Leecode/tree/master/0546-remove-boxes) |
 ## Greedy
 |  |
