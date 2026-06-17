@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/aman23-cmd/Leecode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aman23-cmd/Leecode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aman23-cmd/Leecode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/aman23-cmd/Leecode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/aman23-cmd/Leecode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/aman23-cmd/Leecode/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/aman23-cmd/Leecode/tree/master/0229-majority-element-ii) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/aman23-cmd/Leecode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/aman23-cmd/Leecode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/aman23-cmd/Leecode/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/aman23-cmd/Leecode/tree/master/0493-reverse-pairs) |
 ## Dynamic Programming
 |  |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/aman23-cmd/Leecode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/aman23-cmd/Leecode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/aman23-cmd/Leecode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/aman23-cmd/Leecode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aman23-cmd/Leecode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/aman23-cmd/Leecode/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/aman23-cmd/Leecode/tree/master/0295-find-median-from-data-stream) |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/aman23-cmd/Leecode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/aman23-cmd/Leecode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/aman23-cmd/Leecode/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/aman23-cmd/Leecode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aman23-cmd/Leecode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/aman23-cmd/Leecode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/aman23-cmd/Leecode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -358,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aman23-cmd/Leecode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aman23-cmd/Leecode/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/aman23-cmd/Leecode/tree/master/0383-ransom-note) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/aman23-cmd/Leecode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
